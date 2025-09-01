@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Mohammed Sharif (aka BrainyTweaks)  
 
-⚡ Electronics & Communication Engineering | 📡 Wireless Communications | 🤖 AI-Assisted Programming  
+## ⚡ Electronics & Communication Engineering | 📡 Wireless Communications | 🤖 AI-Assisted Programming  
 
+>### Bridging Wireless Systems & AI Innovation
 ---
 
 ## 🚀 About Me
@@ -47,7 +48,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical)  
+  ![BrainyTweak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical)  
 
 ---
