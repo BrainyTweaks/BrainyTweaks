@@ -52,13 +52,13 @@
 
 ---
 
-## 📈 Acrivities
-
-![Brainy Tweak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical)
+## 🏆 Github Trophies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Github Trophies
+## 🔝 Top
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical)
 
 ---
