@@ -57,12 +57,6 @@
 
 ---
 
-## 🔝 Top
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical)
-
----
-
 ## 🌟 Highlights
 - 🧩 **Problem Solver** – Skilled at debugging wireless protocols and designing AI-driven tools  
 - 🌐 **Future-Focused** – Exploring the intersection of **next-gen wireless communications and AI technologies**  
