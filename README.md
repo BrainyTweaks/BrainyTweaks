@@ -43,7 +43,7 @@
 ## 📂 Featured Projects
 - 🔎 **[Dataset Visualizer](https://github.com/BrainyTweaks/dataset-visualizer)** – Interactive Streamlit app for data exploration  
 - 💼 **[Quantium Job Simulation](https://github.com/BrainyTweaks/quantium-starter-repo)** – Analyzes particular data from multiple CSV files
-- 🤖 **Prompt Engineering Experiments** – Combining AI + software + hardware  
+- 📁 **[File Converter](https://github.com/BrainyTweaks/file-converter)** – Convert files with ease (still under development)
 
 ---
 
