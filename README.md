@@ -58,7 +58,6 @@
 ---
 
 ## 🌟 Highlights
-- 🧩 **Problem Solver** – Skilled at debugging wireless protocols and designing AI-driven tools  
 - 🌐 **Future-Focused** – Exploring the intersection of **next-gen wireless communications and AI technologies**  
 - 💡 **Innovator** – Passionate about building tools that simplify complex problems  
 
