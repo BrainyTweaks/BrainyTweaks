@@ -1,131 +1,102 @@
 <!-- █████████████████████████████████████████████████ -->
-<!--                    PRECISION CORE               -->
+<!--                    SYSTEM ARCHITECT              -->
 <!-- █████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MOHAMMED%20SHARIF&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0a0a0a,40:111111,75:4B0000,100:8B0000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=MOHAMMED%20SHARIF&fontSize=65&fontAlignY=50&animation=fadeIn&fontColor=ffffff&color=0:0c0c0c,40:141414,70:330000,100:660000"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=FF1A1A&center=true&vCenter=true&width=900&lines=AI+Infrastructure+Engineer;Wireless+Systems+Architect;Signal+Intelligence+Builder;Engineering+Scalable+Intelligence"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=4200&pause=1500&color=FF3333&center=true&vCenter=true&width=750&lines=AI+Infrastructure+Engineer;Wireless+Systems+Architect;Signal+Intelligence+Builder;Scalable+Systems+Designer"/>
 </p>
 
 ---
 
-## ⚙ SYSTEM CORE
+## SYSTEM PROFILE
 
 ```yaml
-Identity: Infrastructure-First Engineer
-Domain: AI × Wireless Systems
-Philosophy: Precision > Hype
-Focus: Scalable Intelligent Architectures
-Mission: Architect Systems That Outlive Trends
+Role: Systems & Infrastructure Engineer
+Specialization: AI-Augmented Wireless Architectures
+Engineering Model: Modular • Scalable • Performance-Driven
+Current Focus: Intelligent Signal Processing & System Design
 ```
 
 ---
 
-## 🧠 FLAGSHIP SYSTEMS
+## ARCHITECTURE PORTFOLIO
 
-### 🩸 Aeronexa
+### Aeronexa
 ```yaml
-Framework: AI-integrated architecture
-Design: Modular & scalable
-Approach: Infrastructure-first engineering
+Type: AI-integrated architecture framework
+Core: Infrastructure-first design
+Capability: Scalable intelligence deployment
 ```
 
-### 📊 Dataset Visualizer
+### Dataset Visualizer
 ```yaml
-Engine: High-speed analytical rendering
-Goal: Structured insight extraction
-Performance: Optimized data pipelines
+Engine: Analytical rendering system
+Purpose: Structured insight extraction
+Optimization: High-speed data handling
 ```
 
-### 🧬 Quantium Simulation
+### Quantium Simulation
 ```yaml
 Pipeline: Multi-source orchestration
-Purpose: Predictive modeling systems
-Focus: Analytical intelligence
+Application: Predictive modeling
+Focus: Analytical intelligence systems
 ```
 
-### 🧩 File Conversion Engine
+### File Conversion Engine
 ```yaml
-Architecture: Modular backend core
-Feature: Extensible processing framework
-Design: Performance optimized
+Structure: Modular backend architecture
+Design Goal: Extensible processing core
+Performance: Streamlined execution
 ```
 
 ---
 
-## 📊 PERFORMANCE METRICS
+## PERFORMANCE MATRIX
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrainyTweaks&theme=highcontrast&hide_border=true&background=0d0d0d" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2e2e&icon_color=ff2e2e" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrainyTweaks&theme=highcontrast&hide_border=true&background=0d0d0d&ring=ff2e2e&fire=ff2e2e" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrainyTweaks&theme=redical&hide_border=true&bg_color=0d0d0d"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrainyTweaks&theme=redical&hide_border=true&bg_color=0d0d0d&color=ff2e2e&line=ff2e2e&point=ffffff"/>
 </p>
 
 ---
 
-## 🧠 TECH RADAR
+## TECHNOLOGY STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,matlab,docker,linux,git,vscode,github,cpp,bash&perline=10&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2e2e"/>
 </p>
 
 ---
 
-## 🖥 LIVE TERMINAL
+## TERMINAL SNAPSHOT
 
 ```bash
-$ sudo whoami
+$ whoami
 Mohammed Sharif
 
-$ system_focus --current
+$ focus --current
 AI × Wireless Infrastructure
 
-$ system_status --verbose
-> Building scalable architectures
+$ status --systems
+> Designing modular intelligence frameworks
+> Engineering scalable backend systems
 > Optimizing performance layers
-> Engineering intelligent frameworks
-
-$ core_mission
-Architect systems that outlive trends.
-```
-
----
-
-## 🩸 SYSTEM SIGNAL
-
-```ini
-[ARCHITECTURE]
-Mode=High Precision
-Philosophy=Infrastructure First
-Priority=Performance > Hype
-
-[INTELLIGENCE]
-Signal=Optimized
-Noise=Eliminated
-Scale=Scalable
 ```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrainyTweaks&label=SYSTEM%20OBSERVERS&color=8B0000&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <strong>PRECISION > HYPE</strong><br>
-  <em>Architecture. Intelligence. Systems.</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0a0a0a,50:4B0000,100:8B0000&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:0c0c0c,60:330000,100:660000"/>
 </p>
