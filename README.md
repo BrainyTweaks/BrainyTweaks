@@ -1,102 +1,100 @@
-<!-- █████████████████████████████████████████████████ -->
-<!--                    SYSTEM ARCHITECT              -->
-<!-- █████████████████████████████████████████████████ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                MOHAMMED SHARIF                  -->
+<!--              FUTURISTIC SYSTEM CORE             -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=MOHAMMED%20SHARIF&fontSize=65&fontAlignY=50&animation=fadeIn&fontColor=ffffff&color=0:0c0c0c,40:141414,70:330000,100:660000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&text=MOHAMMED%20SHARIF&fontSize=62&fontAlignY=50&animation=fadeIn&fontColor=ffffff&color=0:050505,35:0f0f0f,70:2a0000,100:8b0000"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=4200&pause=1500&color=FF3333&center=true&vCenter=true&width=750&lines=AI+Infrastructure+Engineer;Wireless+Systems+Architect;Signal+Intelligence+Builder;Scalable+Systems+Designer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=4500&pause=1800&color=ff3b3b&center=true&vCenter=true&width=820&lines=AI+Infrastructure+Engineer;Wireless+Systems+Architect;Signal+Intelligence+Systems;Scalable+Engineering+Design"/>
 </p>
 
 ---
 
-## SYSTEM PROFILE
+## ◼ SYSTEM IDENTITY
 
 ```yaml
-Role: Systems & Infrastructure Engineer
+Name: Mohammed Sharif
+Discipline: Systems & Infrastructure Engineering
 Specialization: AI-Augmented Wireless Architectures
-Engineering Model: Modular • Scalable • Performance-Driven
-Current Focus: Intelligent Signal Processing & System Design
+Design Model: Modular | Scalable | Performance-Oriented
+Current Focus: Intelligent Signal Processing Pipelines
 ```
 
 ---
 
-## ARCHITECTURE PORTFOLIO
+## ◼ CORE SYSTEMS
 
 ### Aeronexa
 ```yaml
-Type: AI-integrated architecture framework
-Core: Infrastructure-first design
-Capability: Scalable intelligence deployment
+Category: AI Architecture Framework
+Design Philosophy: Infrastructure-first
+Capability: Distributed Intelligence Deployment
 ```
 
 ### Dataset Visualizer
 ```yaml
-Engine: Analytical rendering system
-Purpose: Structured insight extraction
-Optimization: High-speed data handling
+Type: Analytical Rendering Engine
+Purpose: Structured Data Exploration
+Strength: High-speed pipeline optimization
 ```
 
 ### Quantium Simulation
 ```yaml
-Pipeline: Multi-source orchestration
-Application: Predictive modeling
-Focus: Analytical intelligence systems
+System: Multi-source Data Orchestration
+Application: Predictive Modeling Systems
+Focus: Analytical Intelligence Engineering
 ```
 
 ### File Conversion Engine
 ```yaml
-Structure: Modular backend architecture
-Design Goal: Extensible processing core
-Performance: Streamlined execution
+Architecture: Modular Backend Core
+Feature: Extensible Processing Modules
+Goal: Efficient Execution Pipelines
 ```
 
 ---
 
-## PERFORMANCE MATRIX
+## ◼ PERFORMANCE ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2e2e&icon_color=ff2e2e" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrainyTweaks&theme=highcontrast&hide_border=true&background=0d0d0d&ring=ff2e2e&fire=ff2e2e" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrainyTweaks&theme=redical&hide_border=true&bg_color=0d0d0d&color=ff2e2e&line=ff2e2e&point=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrainyTweaks&theme=highcontrast&hide_border=true&background=050505&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ffffff" height="170"/>
 </p>
 
 ---
 
-## TECHNOLOGY STACK
+## ◼ TECHNOLOGY MATRIX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,matlab,docker,linux,git,vscode,github,cpp,bash&perline=10&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,matlab,docker,linux,git,vscode,github,cpp,bash&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2e2e"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=ff3b3b&text_color=ffffff"/>
 </p>
 
 ---
 
-## TERMINAL SNAPSHOT
+## ◼ TERMINAL SNAPSHOT
 
 ```bash
 $ whoami
 Mohammed Sharif
 
-$ focus --current
+$ active_domain
 AI × Wireless Infrastructure
 
-$ status --systems
-> Designing modular intelligence frameworks
-> Engineering scalable backend systems
-> Optimizing performance layers
+$ system_state
+Designing scalable intelligence architectures
+Optimizing modular backend systems
+Engineering high-performance pipelines
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:0c0c0c,60:330000,100:660000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&section=footer&color=0:050505,60:1a0000,100:8b0000"/>
 </p>
