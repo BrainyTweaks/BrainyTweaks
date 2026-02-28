@@ -1,73 +1,96 @@
-# Hey 👋, I'm Mohammed Sharif (aka BrainyTweaks)  
+# 👋 Hey, I'm Mohammed Sharif  
 
-#### ⚡ Electronics & Communication Engineering | 📡 Wireless Communications | 🤖 AI-Assisted Programming  
+### ⚡ Electronics & Communication Engineer | 📡 Wireless Systems | 🤖 AI Engineer  
 
->### Bridging Wireless Systems & AI Innovation
----
-
-## 🚀 About Me
-- 🎓 **ECE student**, specializing in **Wireless Communications** & signal processing  
-- 🔬 Fascinated by the convergence of **AI + Communication Systems**  
-- 🤖 Exploring **Prompt Engineering & AI-assisted coding** for faster problem-solving  
-- 💡 Passionate about building **tools that simplify complex problems**  
-- 📈 Always learning, experimenting, and sharing projects  
+> **Engineering the future where Wireless Systems meet Artificial Intelligence.**
 
 ---
 
-## 🛠️ Skills & Toolbox
+## 🚀 About Me  
 
-**Programming & AI**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge) 
+I’m an **ECE student specializing in Wireless Communications**, deeply interested in how **AI can enhance communication systems, signal processing, and real-world engineering workflows**.
 
-**Electronics & Wireless**  
-![MATLAB](https://img.shields.io/badge/MATLAB-F16729?style=for-the-badge&logo=matlab&logoColor=white)  ![Wireless](https://img.shields.io/badge/Wireless-00ADEF?style=for-the-badge)  
+I don’t just code.  
+I build systems that solve problems.
 
-**Data Science & Visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F3F3F?style=for-the-badge&logo=plotly&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)  
-
-**Tools & Workflow**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+- 📡 Focused on **Wireless Communication & Signal Processing**
+- 🤖 Exploring **AI-assisted development & Prompt Engineering**
+- 🛠 Building tools that simplify complex engineering workflows
+- 📈 Continuously learning, shipping, and iterating
 
 ---
 
-## 🎯 Roadmap
-- Explore **AI-driven wireless communication solutions**  
-- Build **AI + hardware integration projects**  
-- Contribute to **open-source ML & comms projects**
+## 🧠 What I’m Currently Building
+
+- AI-powered engineering tools  
+- Intelligent data visualization systems  
+- Practical ML applications for technical domains  
+- Scalable software workflows for students & engineers  
 
 ---
 
-## 📂 Featured Projects
-- 🔎 **[Dataset Visualizer](https://github.com/BrainyTweaks/dataset-visualizer)** – Interactive Streamlit app for data exploration  
-- 💼 **[Quantium Job Simulation](https://github.com/BrainyTweaks/quantium-starter-repo)** – Analyzes particular data from multiple CSV files
-- 📁 **[File Converter](https://github.com/BrainyTweaks/file-converter)** – Convert files with ease (still under development)
+## 🛠 Tech Stack  
+
+### 👨‍💻 Programming
+Python • Java • MATLAB  
+
+### 🤖 AI & Data
+Pandas • NumPy • Plotly • Matplotlib • Prompt Engineering  
+
+### 📡 Electronics & Systems
+Wireless Communication • Signal Processing • Communication Theory  
+
+### ⚙️ Tools
+Git • Linux • Docker • VS Code • Streamlit  
 
 ---
 
-## 📊 GitHub Stats
-  ![BrainyTweak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical)  
+## 📂 Featured Projects  
+
+### 🔎 Dataset Visualizer  
+Interactive Streamlit application for exploring datasets efficiently.  
+🔗 https://github.com/BrainyTweaks/dataset-visualizer  
 
 ---
 
-## 💻 Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical)
+### 💼 Quantium Job Simulation  
+Multi-CSV data analysis project with structured business insights.  
+🔗 https://github.com/BrainyTweaks/quantium-starter-repo  
 
 ---
 
-## 🌟 Highlights
-- 🌐 **Future-Focused** – Exploring the intersection of **next-gen wireless communications and AI technologies**  
-- 💡 **Innovator** – Passionate about building tools that simplify complex problems  
+### 📁 File Converter (In Progress)  
+Modular file conversion tool with extensible backend logic.  
+🔗 https://github.com/BrainyTweaks/file-converter  
 
 ---
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-sharif-3b406b329)  
+## 📊 GitHub Analytics  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=BrainyTweaks&color=blue)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-⭐️ From [BrainyTweaks](https://github.com/BrainyTweaks)
+## 🎯 2026 Vision  
+
+- Build AI-integrated communication system simulations  
+- Publish technical engineering projects  
+- Contribute to open-source AI & wireless research  
+- Develop real-world hardware + AI hybrid systems  
+
+---
+
+## 📫 Let’s Connect  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/mohammed-sharif-3b406b329  
+
+---
+
+⭐️ _Building quietly. Shipping consistently. Scaling intelligently._  
+
+— BrainyTweaks
+
+![Profile Views](https://komarev.com/ghpvc/?username=BrainyTweaks&label=Profile%20Views&color=blueviolet&style=for-the-badge)
