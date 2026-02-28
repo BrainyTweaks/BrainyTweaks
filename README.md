@@ -1,96 +1,153 @@
-# 👋 Hey, I'm Mohammed Sharif  
+<!-- █████████████████ ULTRA RED DOMINANCE HEADER █████████████████ -->
 
-### ⚡ Electronics & Communication Engineer | 📡 Wireless Systems | 🤖 AI Engineer  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&text=MOHAMMED%20SHARIF&fontSize=60&fontAlignY=40&animation=blinking&fontColor=ffffff&color=0:000000,25:4B0000,60:8B0000,100:FF0000"/>
+</p>
 
-> **Engineering the future where Wireless Systems meet Artificial Intelligence.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&pause=400&color=FF0000&center=true&vCenter=true&width=1000&lines=⚡+Wireless+Systems+Architect;⚡+AI+Infrastructure+Engineer;⚡+Signal+Intelligence+Builder;⚡+Engineering+Scalable+Intelligence;⚡+Precision+Over+Hype"/>
+</p>
 
----
+<!-- Rare Animated Red Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656030-88b2c4be-6b2a-4f4a-9c9f-78d55e8f1df9.gif" width="100%"/>
+</p>
 
-## 🚀 About Me  
-
-I’m an **ECE student specializing in Wireless Communications**, deeply interested in how **AI can enhance communication systems, signal processing, and real-world engineering workflows**.
-
-I don’t just code.  
-I build systems that solve problems.
-
-- 📡 Focused on **Wireless Communication & Signal Processing**
-- 🤖 Exploring **AI-assisted development & Prompt Engineering**
-- 🛠 Building tools that simplify complex engineering workflows
-- 📈 Continuously learning, shipping, and iterating
-
----
-
-## 🧠 What I’m Currently Building
-
-- AI-powered engineering tools  
-- Intelligent data visualization systems  
-- Practical ML applications for technical domains  
-- Scalable software workflows for students & engineers  
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack  
+# 🔴 CORE ARCHITECTURE LAYER
 
-### 👨‍💻 Programming
-Python • Java • MATLAB  
-
-### 🤖 AI & Data
-Pandas • NumPy • Plotly • Matplotlib • Prompt Engineering  
-
-### 📡 Electronics & Systems
-Wireless Communication • Signal Processing • Communication Theory  
-
-### ⚙️ Tools
-Git • Linux • Docker • VS Code • Streamlit  
+```diff
++ Designing AI-Augmented Wireless Infrastructure
++ Building Signal Intelligence Pipelines
++ Engineering Modular System Frameworks
++ Optimizing for Performance at Scale
+```
 
 ---
 
-## 📂 Featured Projects  
+# ⚔ FLAGSHIP SYSTEMS
 
-### 🔎 Dataset Visualizer  
-Interactive Streamlit application for exploring datasets efficiently.  
-🔗 https://github.com/BrainyTweaks/dataset-visualizer  
+### 🩸 Aeronexa
+```yaml
+Framework: AI-integrated system architecture
+Philosophy: Infrastructure-first engineering
+Focus: Scalable intelligence systems
+```
 
----
+### 🧠 Dataset Visualizer
+```yaml
+Engine: Analytical exploration system
+Performance: High-speed data rendering
+Purpose: Structured insight extraction
+```
 
-### 💼 Quantium Job Simulation  
-Multi-CSV data analysis project with structured business insights.  
-🔗 https://github.com/BrainyTweaks/quantium-starter-repo  
+### 📊 Quantium Data Simulation
+```yaml
+Pipeline: Multi-source data orchestration
+Goal: Analytical modeling intelligence
+```
 
----
-
-### 📁 File Converter (In Progress)  
-Modular file conversion tool with extensible backend logic.  
-🔗 https://github.com/BrainyTweaks/file-converter  
-
----
-
-## 📊 GitHub Analytics  
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🎯 2026 Vision  
-
-- Build AI-integrated communication system simulations  
-- Publish technical engineering projects  
-- Contribute to open-source AI & wireless research  
-- Develop real-world hardware + AI hybrid systems  
+### 🧩 File Conversion Engine
+```yaml
+Architecture: Modular backend core
+Feature: Extensible format processing
+```
 
 ---
 
-## 📫 Let’s Connect  
-
-💼 LinkedIn  
-https://www.linkedin.com/in/mohammed-sharif-3b406b329  
+<!-- Animated Red Pulse Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
+</p>
 
 ---
 
-⭐️ _Building quietly. Shipping consistently. Scaling intelligently._  
+# 🧬 SYSTEM METRICS DASHBOARD
 
-— BrainyTweaks
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BrainyTweaks&theme=algolia&no-frame=true&column=7"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BrainyTweaks&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical&hide_border=true&bg_color=000000" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrainyTweaks&theme=highcontrast&hide_border=true&background=000000" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrainyTweaks&theme=redical&hide_border=true&bg_color=000000"/>
+</p>
+
+---
+
+# 🧠 TECH RADAR — ADVANCED GRID
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,matlab,docker,linux,git,vscode,github,cpp,bash&perline=10&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical&hide_border=true&bg_color=000000"/>
+</p>
+
+---
+
+# 🧾 LIVE TERMINAL
+
+```bash
+$ sudo whoami
+Mohammed Sharif
+
+$ system_focus --current
+AI × Wireless Infrastructure
+
+$ system_status --verbose
+> Building scalable architectures
+> Optimizing performance layers
+> Engineering intelligent frameworks
+
+$ core_mission
+Architect systems that outlive trends.
+```
+
+---
+
+# 🩸 SYSTEM SIGNAL FEED
+
+```ini
+[ARCHITECTURE]
+Mode=High Precision
+Philosophy=Infrastructure First
+Priority=Performance > Hype
+
+[INTELLIGENCE]
+Signal=Optimized
+Noise=Eliminated
+Scale=Infinite
+```
+
+---
+
+# 🔴 VISITOR ANALYTICS NODE
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrainyTweaks&label=SYSTEM%20OBSERVERS&color=8B0000&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <strong style="color:red;">PRECISION > HYPE</strong><br>
+  <em>Architecture. Intelligence. Systems.</em>
+</p>
+
+<!-- FINAL RED DOMINATION FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:8B0000,100:FF0000&section=footer"/>
+</p>
