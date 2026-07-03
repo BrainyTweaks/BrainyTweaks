@@ -1,6 +1,8 @@
-<h1 align="center">Mohammed Sharif</h1>
+# Mohammed Sharif
 
-<h3 align="center">Embedded Systems</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Engineer-blue?style=for-the-badge"/>
+</p>
 
 <p align="center">
 Engineering student focused on building reliable embedded systems with calm and confident execution.
