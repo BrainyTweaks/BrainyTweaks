@@ -1,7 +1,7 @@
 <h1 align="center">Mohammed Sharif</h1>
 
 <p align="center">
-Embedded Systems
+Embedded Systems • IoT • Industrial Automation
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@ Engineering student focused on embedded systems, IoT communication, and industri
 </p>
 
 <p align="center">
-I am not interested in just writing code. I am interested in how systems behave in real environments.
+I am not interested in just writing code. I am interested in how systems behave when they are running in the real world.
 </p>
 
 <p align="center">
-System thinking approach:<br>
+My thinking is system-oriented:<br>
 Inputs → Processing → Decision → Response
 </p>
 
@@ -31,9 +31,9 @@ Inputs → Processing → Decision → Response
 
 <p align="center">
 Embedded system design using STM32<br>
-Industrial automation systems<br>
-IoT communication systems<br>
-Fault detection and monitoring<br>
+Industrial automation systems and logic<br>
+IoT communication between devices<br>
+Fault detection and system monitoring<br>
 Modular firmware architecture
 </p>
 
@@ -44,9 +44,9 @@ Modular firmware architecture
 <p align="center">
 STM32 firmware development<br>
 System-level embedded design<br>
-Real-time system behavior<br>
+Real-time behavior analysis<br>
 Communication between subsystems<br>
-Project 001 (Private)
+Project 001 (Private system build)
 </p>
 
 ---
@@ -54,12 +54,12 @@ Project 001 (Private)
 <h2 align="center">Project 001</h2>
 
 <p align="center">
-Internal embedded system for industrial automation and monitoring
+A modular embedded system designed for industrial automation and monitoring.
 </p>
 
 <p align="center">
 Focus areas:<br>
-Real-time behavior • Fault detection • Distributed control • Reliable communication
+Real-time system behavior • Fault detection • Distributed control • Reliable communication
 </p>
 
 <p align="center">
