@@ -1,64 +1,84 @@
-# Mohammed Sharif
+<h1 align="center">Mohammed Sharif</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-Engineer-blue?style=for-the-badge"/>
+Embedded Systems
 </p>
 
 <p align="center">
-Engineering student focused on building reliable embedded systems with calm and confident execution.
+Building embedded systems with structure, discipline, and real-world thinking.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">Who I Am</h2>
 
-I am an engineering student with a strong interest in embedded systems, IoT-based communication systems, and industrial automation.
+<p align="center">
+Engineering student focused on embedded systems, IoT communication, and industrial automation.
+</p>
 
-I enjoy building embedded solutions that connect hardware and software into reliable, real-world systems. My focus is on understanding system behavior, communication flow, and control logic in practical environments.
+<p align="center">
+I am not interested in just writing code. I am interested in how systems behave in real environments.
+</p>
 
-I am currently working with STM32-based development and exploring embedded communication protocols and system-level architecture through hands-on projects.
-
-My goal is to design scalable and reliable embedded systems that can operate in real industrial and IoT applications.
-
----
-
-## 🛠 Skills
-
-### Programming Languages
-- C (Embedded Systems)
-- Python
-
-### Tools & Platforms
-- Git
-- GitHub
-
-### Currently Learning
-- Embedded Systems (STM32)
-- IoT Communication Systems
-- Industrial Embedded Architecture
+<p align="center">
+System thinking approach:<br>
+Inputs → Processing → Decision → Response
+</p>
 
 ---
 
-## 🚧 Projects
+<h2 align="center">What I Work On</h2>
 
-### 🔐 Project 001 (Private)
-A modular embedded system focused on industrial automation, real-time monitoring, and fault detection mechanisms.  
-Built with a system-level architecture approach emphasizing reliability, scalability, and maintainability.
-
-> Currently under development.
+<p align="center">
+Embedded system design using STM32<br>
+Industrial automation systems<br>
+IoT communication systems<br>
+Fault detection and monitoring<br>
+Modular firmware architecture
+</p>
 
 ---
 
-## 🤝 Connect With Me
+<h2 align="center">Current Focus</h2>
 
-<p align="left">
+<p align="center">
+STM32 firmware development<br>
+System-level embedded design<br>
+Real-time system behavior<br>
+Communication between subsystems<br>
+Project 001 (Private)
+</p>
 
-<a href="https://www.linkedin.com/in/mohammed-sharif-3b406b329" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="mailto:muhammedsharif2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<h2 align="center">Project 001</h2>
 
+<p align="center">
+Internal embedded system for industrial automation and monitoring
+</p>
+
+<p align="center">
+Focus areas:<br>
+Real-time behavior • Fault detection • Distributed control • Reliable communication
+</p>
+
+<p align="center">
+This project is being built as a system, not just software.
+</p>
+
+---
+
+<h2 align="center">Skills</h2>
+
+<p align="center">
+C (Embedded Systems) • Python • Git • GitHub • STM32 (Learning)
+</p>
+
+---
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammed-sharif-3b406b329">LinkedIn</a> • 
+<a href="mailto:muhammedsharif2007@gmail.com">Email</a>
 </p>
