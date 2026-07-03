@@ -1,8 +1,10 @@
-# Mohammed Sharif
+<h1 align="center">Mohammed Sharif</h1>
 
-### Embedded Systems
+<h3 align="center">Embedded Systems</h3>
 
+<p align="center">
 Engineering student focused on building reliable embedded systems with calm and confident execution.
+</p>
 
 ---
 
@@ -47,5 +49,14 @@ Built with a system-level architecture approach emphasizing reliability, scalabi
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-sharif-3b406b329
-- 📧 Email: muhammedsharif2007@gmail.com
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mohammed-sharif-3b406b329" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammedsharif2007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
