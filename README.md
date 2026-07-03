@@ -1,100 +1,51 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                MOHAMMED SHARIF                  -->
-<!--              FUTURISTIC SYSTEM CORE             -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+# Mohammed Sharif
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&text=MOHAMMED%20SHARIF&fontSize=62&fontAlignY=50&animation=fadeIn&fontColor=ffffff&color=0:050505,35:0f0f0f,70:2a0000,100:8b0000"/>
-</p>
+### Embedded Systems
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=4500&pause=1800&color=ff3b3b&center=true&vCenter=true&width=820&lines=AI+Infrastructure+Engineer;Wireless+Systems+Architect;Signal+Intelligence+Systems;Scalable+Engineering+Design"/>
-</p>
+Engineering student focused on building reliable embedded systems with calm and confident execution.
 
 ---
 
-## ◼ SYSTEM IDENTITY
+## 👨‍💻 About Me
 
-```yaml
-Name: Mohammed Sharif
-Discipline: Systems & Infrastructure Engineering
-Specialization: AI-Augmented Wireless Architectures
-Design Model: Modular | Scalable | Performance-Oriented
-Current Focus: Intelligent Signal Processing Pipelines
-```
+I am an engineering student with a strong interest in embedded systems, IoT-based communication systems, and industrial automation.
 
----
+I enjoy building embedded solutions that connect hardware and software into reliable, real-world systems. My focus is on understanding system behavior, communication flow, and control logic in practical environments.
 
-## ◼ CORE SYSTEMS
+I am currently working with STM32-based development and exploring embedded communication protocols and system-level architecture through hands-on projects.
 
-### Aeronexa
-```yaml
-Category: AI Architecture Framework
-Design Philosophy: Infrastructure-first
-Capability: Distributed Intelligence Deployment
-```
-
-### Dataset Visualizer
-```yaml
-Type: Analytical Rendering Engine
-Purpose: Structured Data Exploration
-Strength: High-speed pipeline optimization
-```
-
-### Quantium Simulation
-```yaml
-System: Multi-source Data Orchestration
-Application: Predictive Modeling Systems
-Focus: Analytical Intelligence Engineering
-```
-
-### File Conversion Engine
-```yaml
-Architecture: Modular Backend Core
-Feature: Extensible Processing Modules
-Goal: Efficient Execution Pipelines
-```
+My goal is to design scalable and reliable embedded systems that can operate in real industrial and IoT applications.
 
 ---
 
-## ◼ PERFORMANCE ANALYTICS
+## 🛠 Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrainyTweaks&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrainyTweaks&theme=highcontrast&hide_border=true&background=050505&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ffffff" height="170"/>
-</p>
+### Programming Languages
+- C (Embedded Systems)
+- Python
 
----
+### Tools & Platforms
+- Git
+- GitHub
 
-## ◼ TECHNOLOGY MATRIX
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,matlab,docker,linux,git,vscode,github,cpp,bash&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainyTweaks&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=ff3b3b&text_color=ffffff"/>
-</p>
+### Currently Learning
+- Embedded Systems (STM32)
+- IoT Communication Systems
+- Industrial Embedded Architecture
 
 ---
 
-## ◼ TERMINAL SNAPSHOT
+## 🚧 Projects
 
-```bash
-$ whoami
-Mohammed Sharif
+### 🔐 Project 001 (Private)
+A modular embedded system focused on industrial automation, real-time monitoring, and fault detection mechanisms.  
+Built with a system-level architecture approach emphasizing reliability, scalability, and maintainability.
 
-$ active_domain
-AI × Wireless Infrastructure
-
-$ system_state
-Designing scalable intelligence architectures
-Optimizing modular backend systems
-Engineering high-performance pipelines
-```
+> Currently under development.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&section=footer&color=0:050505,60:1a0000,100:8b0000"/>
-</p>
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-sharif-3b406b329
+- 📧 Email: muhammedsharif2007@gmail.com
