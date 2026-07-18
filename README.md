@@ -1,94 +1,84 @@
-<h1 align="center">Mohammed Sharif</h1>
+# Hi, I'm Mohammed Sharif 👋
 
-<p align="center">
-Embedded Systems • IoT • Industrial Automation
-</p>
+### Electronics & Communication Engineering Student
 
-<p align="center">
-Building embedded systems with structure, discipline, and real-world thinking.
-</p>
+I enjoy building practical engineering projects that combine **Signal Processing**, **Embedded Systems**, and **Artificial Intelligence**.
 
 ---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Embedded_Systems-Engineer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-Systems-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Industrial-Automation-orange?style=for-the-badge"/>
-</p>
+## Areas of Interest
+
+* Digital Signal Processing (DSP)
+* Biomedical Signal Processing
+* Embedded Systems
+* STM32 Development
+* MATLAB
+* Artificial Intelligence & Machine Learning
+* Wireless Communication
 
 ---
 
-## 🧠 Who I Am
+## Current Projects
 
-Engineering student focused on embedded systems, IoT communication, and industrial automation.
-
-I am not interested in just writing code. I am interested in how systems behave when they are running in the real world.
-
----
-
-## ⚙️ System Thinking
-
-**Inputs → Processing → Decision → Response**
-
-Every system I design follows modular, predictable behavior with clear responsibility separation.
+* 📈 ECG Signal Processing & Cardiac Feature Extraction
+* 🎵 Real-Time Audio Spectrum Analyzer using STM32 (In Progress)
 
 ---
 
-## 🔧 What I Work On
+## Tech Stack
 
-- Embedded system design using STM32  
-- Industrial automation and control systems  
-- IoT device communication systems  
-- Fault detection and monitoring systems  
-- Modular firmware architecture  
+**Languages**
 
----
+* MATLAB
+* Python
+* C
+* C++
 
-## 📌 Current Focus
+**Tools**
 
-- STM32 firmware development  
-- System-level embedded design  
-- Real-time behavior analysis  
-- Inter-module communication  
-- Project 001 (Private system build)  
-
----
-
-## 🚧 Project 001
-
-**Internal Embedded System for Industrial Automation**
-
-A modular embedded system designed for real-time monitoring, fault detection, and distributed control.
-
-**Focus Areas:**
-- Real-time system behavior  
-- System reliability and recovery logic  
-- Distributed control modules  
-- Reliable communication between subsystems  
-
-*Built as a system, not just software.*
+* MATLAB
+* STM32CubeIDE
+* STM32CubeMX
+* Git
+* GitHub
+* LTspice
 
 ---
 
-## 🛠 Skills
+## Featured Repository
 
-- C (Embedded Systems)  
-- Python (Basic)  
-- Git / GitHub  
-- STM32 (Learning)
+### ECG Signal Processing & Cardiac Feature Extraction
+
+A complete ECG analysis pipeline built using MATLAB and the MIT-BIH Arrhythmia Database.
+
+Features include:
+
+* ECG preprocessing
+* Automatic PQRST detection
+* Heart Rate Analysis
+* HRV (SDNN & RMSSD)
+* Cardiac interval extraction
+* FFT & PSD analysis
+* Clinical alert detection
+* Automated CSV export
+* Professional PDF report generation
 
 ---
 
-## 🤝 Connect
+## Currently Learning
 
-<p align="left">
+* Embedded AI
+* DSP Algorithms
+* STM32 Embedded Development
+* Wireless Communication
 
-<a href="https://www.linkedin.com/in/mohammed-sharif-3b406b329">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="mailto:muhammedsharif2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## Connect with Me
 
-</p>
+* GitHub: https://github.com/BrainyTweaks
+* LinkedIn: *(Add your LinkedIn URL here)*
+
+---
+
+> *Learning by building. Improving with every project.*
