@@ -76,8 +76,8 @@ Features include:
 
 ## Connect with Me
 
-* GitHub: https://github.com/BrainyTweaks
-* LinkedIn: *(Add your LinkedIn URL here)*
+* [GitHub](https://github.com/BrainyTweaks)
+* [LinkedIn](https://www.linkedin.com/in/mohammed-sharif-3b406b329/)
 
 ---
 
