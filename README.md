@@ -22,7 +22,7 @@ I enjoy building practical engineering projects that combine **Signal Processing
 
 * 📈 ECG Signal Processing & Cardiac Feature Extraction
 * 🎵 Real-Time Audio Spectrum Analyzer using STM32 (In Progress)
-* 👂 Simulink Hearing Aid (Mathworks Excellence in Innovation Challenge - Project 241)
+* 👂 Simulink Hearing Aid (Mathworks Excellence in Innovation Challenge - Project 241) (In Progress)
 
 ---
 
